@@ -1,0 +1,45 @@
+.c1{
+
+    background-color: lightblue;
+    width: 1500px;
+    height: 700px;
+    position: absolute;
+    left: -10%;
+    top: -5%;
+    z-index: -1;
+    
+}
+
+.c2{
+
+     width: 200px;
+     height: 200px;
+     background-color: white;
+     position: absolute;
+     left: 570px;
+     top: 200px;
+     z-index: -1;
+     color: blue;
+     font-size: 30px;
+     text-align: center;
+     font-family: Agency FB;
+
+}
+.tt{
+	font-family: Agency FB;
+	font-size: 25px;
+	color: red;
+	position: absolute;
+	left: 46%;
+	top: 45%;
+}
+.txt{
+	font-family: Agency FB;
+	font-size: 25px;
+	color: blue;
+	position: absolute;
+	left: 41%;
+	top: 43%;
+	display: none;
+}
+
